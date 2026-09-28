@@ -273,7 +273,12 @@ Business Intelligence
 Data-Driven Decision Making
 
 
-<img width="382" height="217" alt="image" src="https://github.com/user-attachments/assets/39ade6a1-8da7-4bd1-823c-8dc784c5c824" />
+# 📊 Power BI Dashboard
+
+An interactive Power BI dashboard was created to visualize customer shopping behavior and business insights.
+
+![Customer Shopping Behavior Dashboard](customer_behavior_dashboard.png)
+
 
 
 👩‍💻 Author
