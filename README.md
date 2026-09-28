@@ -273,11 +273,11 @@ Business Intelligence
 Data-Driven Decision Making
 
 
-# 📊 Power BI Dashboard
+## 📊 Power BI Dashboard
 
 An interactive Power BI dashboard was created to visualize customer shopping behavior and business insights.
 
-![Customer Shopping Behavior Dashboard](customer_behavior_dashboard.png)
+![Customer Shopping Behavior Dashboard](./customer_behavior_dashboard.png)
 
 
 
